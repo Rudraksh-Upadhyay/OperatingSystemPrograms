@@ -30,7 +30,7 @@ int main(){
 
     //--------------------------------//
     for(int i=1; i<=noOfFrames; i++){
-        frm[i] = -1;
+        frm[i] = -1;                // abhi koi bhi frame mei koi page nahi betha
     }
     
     //----------replacement logic----------//

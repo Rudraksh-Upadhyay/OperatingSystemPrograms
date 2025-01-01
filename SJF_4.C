@@ -1,3 +1,6 @@
+//SHORTEST JOB FIRST 
+//CPU SCHEDULLING ALGORITHM
+
 #include<stdio.h>
 
 typedef struct {
